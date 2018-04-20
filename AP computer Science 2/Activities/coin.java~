@@ -1,0 +1,16 @@
+public class coin
+{
+ 
+  private String side;
+  private int heads = 1;
+  private int tails = 0;
+  public coin(String s)
+  {
+   side = s;
+   if(s.equals "heads")
+     return heads;
+   else
+     return tails;
+  }
+  
+}

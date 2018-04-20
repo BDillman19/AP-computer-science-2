@@ -1,0 +1,14 @@
+import java.util.Scanner;
+import java.lang.Math;
+class Main{
+  public static int binConv()
+  {
+  
+  }
+  public static void main(String[] args)
+  {
+    System.out.println("Enter a base ten number between 0 and 255, inclusive.");
+    int[] a = scan.nextInt;
+  }
+}
+  

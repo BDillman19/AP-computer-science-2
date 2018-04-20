@@ -1,0 +1,28 @@
+public class Lesson_12_FastStart
+{
+ private int x;
+ private int y;
+ private Arraylist<String> words = new Arraylist<String> ();
+ 
+ words.add("who");
+ words.add("what");
+ words.add("where");
+ words.add("when");
+ words.add("how");
+ words.add("this");
+ words.add("there");
+ words.add("that");
+ words.add("them");
+ words.add("yes");
+ 
+ String a = "";
+ String b = "";
+ 
+ x = (int)(Math.floor(Math.random()*11));
+ y = (int)(Math.floor(Math.random()*11));
+ 
+ a = words.get(x);
+ b = words.get(y);
+ 
+ 
+}
